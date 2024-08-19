@@ -1,0 +1,1210 @@
+<h2 id="volledige-tekst-belangrijkste-wijzigingen" class="section-heading collapsible-toggler expanded shdi-init open" tabindex="0" data-once="shdi tpe">Belangrijkste wijzigingen</h2>
+
+<ul>
+<li>In lijn met internationale richtlijnen wordt niet langer gesproken van &lsquo;systolisch&rsquo; of &lsquo;diastolisch&rsquo; hartfalen maar van hartfalen met een al dan niet verminderde ejectiefractie (HFpEF, HFmrEF of HFrEF).</li>
+<li>De behandeling van HFrEF en HFmrEF wordt in principe opgestart door de cardioloog.</li>
+<li>Thiazidediuretica en digoxine worden niet langer aanbevolen voor de behandeling van hartfalen in de eerste lijn.</li>
+</ul>
+
+
+<h2 id="volledige-tekst-kernboodschappen" class="section-heading collapsible-toggler expanded shdi-init open" tabindex="0" data-once="shdi tpe">Kernboodschappen</h2>
+
+<ul>
+<li>Bepaal bij vermoeden van niet-acuut hartfalen laagdrempelig het BNP of NT-proBNP en maak een ecg.</li>
+<li>Verwijs pati&euml;nten met een verhoogd (NT-pro)BNP of een afwijkend ecg naar de cardioloog voor echocardiografie en verdere diagnostiek, en voor (het opstarten van) eventuele behandeling.</li>
+<li>Overweeg medicamenteuze behandeling van pati&euml;nten met HFmrEF en HFrEF ook zonder dat de cardioloog de diagnose &lsquo;hartfalen&rsquo; heeft bevestigd, indien verwijzing naar de tweede lijn niet wenselijk is. Volg daarbij het&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>.</li>
+</ul>
+
+
+<h2 id="volledige-tekst-inleiding" class="section-heading collapsible-toggler shdi-init open" tabindex="0" data-once="shdi tpe">Inleiding</h2>
+
+<h3 id="volledige-tekst-scope" class="section-heading">Scope</h3>
+<p>Diagnostiek en behandeling van hartfalen bij volwassenen:</p>
+<ul>
+<li>chronisch hartfalen (geleidelijk ontstaan)</li>
+<li>acuut hartfalen (ontstaan of verergerd in enkele uren), zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-acuut-hartfalen">Acuut hartfalen</a></li>
+<li>exacerbatie van chronisch hartfalen (ontstaan of verergerd in enkele dagen), zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-beleid-bij-exacerbaties">Beleid bij exacerbaties</a>)</li>
+</ul>
+
+<h3 id="volledige-tekst-samenwerking-en-afstemming" class="section-heading">Samenwerking en afstemming</h3>
+<ul>
+<li>Leden van de werkgroep waren huisartsen, een cardioloog en een afvaardiging van de Harteraad.</li>
+<li>De aanbevelingen sluiten zoveel mogelijk aan bij de volgende richtlijnen:
+<ul>
+<li><a class="ext" href="https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Acute-and-Chronic-Heart-Failure" target="_blank" rel="noopener" data-extlink="">ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure</a>&nbsp;(2016)</li>
+<li><a class="ext" href="https://www.nice.org.uk/guidance/ng106" target="_blank" rel="noopener" data-extlink="">NICE guideline Chronic heart failure in adults: diagnosis and management</a>&nbsp;(2018)</li>
+</ul>
+</li>
+</ul>
+
+<h3 id="volledige-tekst-buiten-de-scope" class="section-heading">Buiten de scope</h3>
+<p>Systolische of diastolische linkerventrikeldisfunctie zonder klachten passend bij hartfalen (kan een voorstadium van hartfalen zijn).</p>
+
+
+<h2 id="volledige-tekst-achtergronden" class="section-heading collapsible-toggler shdi-init open" tabindex="0" data-once="shdi tpe">Achtergronden</h2>
+
+<h3 id="volledige-tekst-begrippen" class="section-heading">Begrippen</h3>
+
+<h4 id="volledige-tekst-hartfalen" class="section-heading">Hartfalen</h4>
+<ul>
+<li>Hartfalen is een klinisch syndroom dat ontstaat door structurele of functionele afwijkingen van het hart waarbij de pompfunctie is verminderd of alleen met verhoogde intracardiale druk kan worden gehandhaafd.</li>
+<li>Klachten zijn onder andere kortademigheid, verminderde inspanningstolerantie en vocht vasthouden.</li>
+</ul>
+
+<h4 id="volledige-tekst-hfpef-hfmref-hfref" class="section-heading">HFpEF, HFmrEF, HFrEF</h4>
+<ul>
+<li>De diagnostische classificatie volgens internationale richtlijnen is gebaseerd op de linkerventrikelejectiefractie (LVEF), veelal bepaald met echocardiografie.
+<ul>
+<li>HFpEF: hartfalen met behouden (preserved) LVEF (&ge; 50%)</li>
+<li>HFmrEF: hartfalen met matige (midrange) LVEF (40-49%)</li>
+<li>HFrEF: hartfalen met verminderde (reduced) LVEF (&lt; 40%)</li>
+</ul>
+</li>
+<li>Het medicamenteuze beleid wordt bepaald op basis van het type hartfalen en is voor HFrEF en HFmrEF hetzelfde.</li>
+</ul>
+
+<h4 id="volledige-tekst-nyha-classificatie" class="section-heading">NYHA-classificatie</h4>
+<ul>
+<li>De classificatie van hartfalen volgens de New York Heart Association (NYHA) is een functionele classificatie op basis van de ernst van de klachten bij inspanning (zie tabel 1).</li>
+<li>Deze classificatie is een momentopname en kan vari&euml;ren in de tijd.</li>
+<li>Aan de hand van de NYHA-klasse wordt onder andere bepaald of een pati&euml;nt geschikt is om auto te rijden.</li>
+</ul>
+<p><a id="volledige-tekst-tabel1" name="volledige-tekst-tabel1"></a></p>
+
+<table data-once="scrollable stndct"><caption>Tabel 1 Functionele NYHA-classificatie van hartfalen</caption>
+<tbody>
+<tr>
+<th>Klasse I</th>
+<td>Geen beperking van het inspanningsvermogen; normale lichamelijke activiteit veroorzaakt geen overmatige vermoeidheid, palpitaties of kortademigheid</td>
+</tr>
+<tr>
+<th>Klasse II</th>
+<td>Enige beperking van het inspanningsvermogen; in rust geen klachten maar normale lichamelijke inspanning veroorzaakt overmatige vermoeidheid, palpitaties of kortademigheid</td>
+</tr>
+<tr>
+<th>Klasse III</th>
+<td>Ernstige beperking van het inspanningsvermogen; in rust geen of weinig klachten, maar lichte lichamelijke inspanning veroorzaakt overmatige vermoeidheid, palpitaties of kortademigheid</td>
+</tr>
+<tr>
+<th>Klasse IV</th>
+<td>Geen enkele lichamelijke inspanning mogelijk zonder klachten; ook klachten in rust</td>
+</tr>
+</tbody>
+</table>
+<a class="table-cb-toggler cboxElement" href="https://richtlijnen.nhg.org/standaarden/hartfalen#">Open tabel</a>
+
+<h3 id="volledige-tekst-epidemiologie" class="section-heading">Epidemiologie</h3>
+
+<h4 id="volledige-tekst-prevalentie" class="section-heading">Prevalentie</h4>
+<ul>
+<li>In 2018 waren er in de Nederlandse huisartsenpraktijk circa 242.300 pati&euml;nten bekend met de diagnose &lsquo;hartfalen&rsquo; (ICPC-code K77).</li>
+<li>Huisartsen registreerden in 2018 circa 38.000 nieuwe hartfalenpati&euml;nten, iets meer vrouwen dan mannen; de meeste mannen waren 75-84 jaar, de meeste vrouwen &gt; 85 jaar.</li>
+<li>In 2019 was de prevalentie van geregistreerd hartfalen in de Nederlandse bevolking &ge; 65 jaar 6,1%, ongeveer even veel vrouwen als mannen; de prevalentie stijgt met de leeftijd en was &ge; 85 jaar bijna 21%.</li>
+<li>Personen &gt; 55 jaar hebben circa 30% kans om gedurende het leven hartfalen te krijgen.</li>
+<li>Hartfalen was in 2018 de primaire doodsoorzaak bij circa 4300 vrouwen en circa 3200 mannen; de gemiddelde leeftijd van overlijden was 88 jaar voor vrouwen en 83 jaar voor mannen.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-onderrapportage" class="section-heading">Onderrapportage</h4>
+<ul>
+<li>Er is sprake van onderrapportage van hartfalen, met name bij pati&euml;nten met COPD en diabetes mellitus type 2.</li>
+<li>Het aandeel van HFpEF binnen de totale incidentie van hartfalen stijgt met de leeftijd.</li>
+<li>Onderrapportage van HFpEF komt vaak voor in de groep (kwetsbare) ouderen met verminderd inspanningsvermogen, vermoeidheid en/of dyspneu.</li>
+<li>Geassocieerd met HFpEF zijn onder andere: hoge leeftijd, vrouwelijk geslacht, obesitas, hypertensie, COPD, atriumfibrilleren, diabetes mellitus type 2, en een voorgeschiedenis z&oacute;nder myocardinfarct.</li>
+</ul>
+
+
+
+<h3 id="volledige-tekst-etiologie-pathofysiologie-en-symptomatologie" class="section-heading">Etiologie, pathofysiologie en symptomatologie</h3>
+
+<h4 id="volledige-tekst-etiologie" class="section-heading">Etiologie</h4>
+
+<h5 id="volledige-tekst-meest-voorkomende-oorzaken" class="section-heading">Meest voorkomende oorzaken</h5>
+<ul>
+<li>Ischemische hartziekte</li>
+<li>Hypertensie</li>
+<li>Obesitas</li>
+<li>Diabetes mellitus</li>
+<li>Toxische stoffen (alcohol, coca&iuml;ne, cytostatica)</li>
+<li>Schildklierfunctiestoornissen</li>
+<li>Hartklepafwijkingen (aortaklepstenose, mitralisklepinsuffici&euml;ntie)</li>
+<li>Ritme- en geleidingsstoornissen (bradycardie, tachycardie, atriumfibrilleren); bij atriumfibrilleren is er vaak een vullingsprobleem met behouden LVEF (HFpEF)</li>
+</ul>
+
+<h5 id="volledige-tekst-minder-frequente-oorzaken" class="section-heading">Minder frequente oorzaken</h5>
+<ul>
+<li>Primaire hartspieraandoeningen (waaronder erfelijke, zoals in het kader van Duchenne)</li>
+<li>Andere beschadigingen van de hartspier (bijvoorbeeld myocarditis)</li>
+<li>Overige:
+<ul>
+<li>middelen die kunnen leiden tot zout- en vochtretentie (NSAID&rsquo;s inclusief COX-2-remmers, corticostero&iuml;den)</li>
+<li>anemie&nbsp;</li>
+<li>ernstige infecties</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-pathofysiologie" class="section-heading">Pathofysiologie</h4>
+<ul>
+<li>Het hart kan worden beschouwd als een zuigpomp. Bij hartfalen is deze niet in staat voldoende bloed rond te pompen om aan de behoefte van de weefsels te voorzien.</li>
+<li>Bij HFrEF en HFmrEF is de contractiekracht van de linker ventrikel onvoldoende, waardoor de ejectiefractie is verlaagd (systolische disfunctie).</li>
+<li>Bij HFpEF is de ejectiefractie niet afgenomen, maar is de vulling van de linker ventrikel vertraagd en verminderd door toegenomen stijfheid van het myocard; met als gevolg onvoldoende slagvolume bij inspanning of hoge hartfrequentie (diastolische disfunctie).</li>
+<li>Hartfalen is een chronische, progressieve ziekte. Pati&euml;nten kunnen een tijd stabiel blijven onder adequate therapie, maar op termijn nemen de beschadiging en disfunctie van de hartspier toe.</li>
+</ul>
+
+<h4 id="volledige-tekst-symptomen" class="section-heading">Symptomen</h4>
+<ul>
+<li>Hartfalen leidt tot aspecifieke klachten (kortademigheid, verminderd inspanningsvermogen, moeheid) die het dagelijks functioneren beperken en in de loop van de tijd toenemen.</li>
+<li>De meer specifieke tekenen van hartfalen bij lichamelijk onderzoek komen meestal voort uit overvulling:
+<ul>
+<li>longen: crepitaties, demping bij percussie en verminderd ademgeruis basaal, soms rhonchi en piepen</li>
+<li>verhoogde centraalveneuze druk (uitgezette halsvenen)</li>
+<li>oedeem van enkels en/of sacrum</li>
+<li>toegenomen buikomvang (vergrote lever, ascites)</li>
+</ul>
+</li>
+<li>De klachten nemen toe bij exacerbaties</li>
+<li>Soms zijn er ook nachtelijke klachten:
+<ul>
+<li>kortademigheid bij plat liggen, meerdere kussens nodig bij het slapen (orthopneu)</li>
+<li>nycturie</li>
+</ul>
+</li>
+</ul>
+
+<h3 id="volledige-tekst-prognose" class="section-heading">Prognose</h3>
+<ul>
+<li>De prognose is zeer variabel, afhankelijk van de ernst van de klachten, etiologie, leeftijd, comorbiditeit en reeds gebleken snelheid van progressie.</li>
+<li>Comorbiditeit (hypertensie, diabetes mellitus, coronairlijden, obesitas, COPD) draagt bij aan een onzeker ziektebeloop van afwisselende exacerbaties en stabiele periodes.</li>
+<li>Vroege diagnose en optimale behandeling verbeteren de prognose, maar het individuele effect is moeilijk te voorspellen.</li>
+<li>In de afgelopen 30 jaar zijn klachten, progressie, ernstige exacerbaties en overleving verbeterd door betere medicamenteuze behandeling.</li>
+<li>Het 1-jaarsrisico op ziekenhuisopname is 30-35%.</li>
+<li>De 5-jaarsmortaliteit na de diagnose &lsquo;hartfalen&rsquo; is circa 35%.</li>
+<li>De 1-jaarsmortaliteit van pati&euml;nten op hartfalenpoliklinieken is circa 6% voor HFpEF en 9% voor HFrEF.</li>
+</ul>
+
+
+
+
+<h2 id="volledige-tekst-richtlijnen-diagnostiek" class="section-heading collapsible-toggler shdi-init open" tabindex="0" data-once="shdi tpe">Richtlijnen diagnostiek</h2>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-richtlijnen-diagnostiek">Naar Samenvatting &rsaquo;</a>
+
+<ul>
+<li>Verricht laagdrempelig diagnostiek naar hartfalen bij aspecifieke klachten (kortademigheid, verminderd inspanningsvermogen, moeheid), in het bijzonder bij pati&euml;nten met de volgende risicofactoren:
+<ul>
+<li>hogere leeftijd</li>
+<li>doorgemaakt myocardinfarct</li>
+<li>COPD</li>
+<li>diabetes mellitus type 2</li>
+<li>hypertensie</li>
+<li>anemie</li>
+<li>roken</li>
+<li>laag opleidingsniveau</li>
+<li>obesitas</li>
+</ul>
+</li>
+<li>Denk ook laagdrempelig aan hartfalen bij pati&euml;nten die vanwege hun etnische achtergrond (Turks, Sub-Sahara Afrikaans, Hindoestaans, Aziatisch-Surinaams, Cara&iuml;bisch) een ongunstiger risicoprofiel voor hart- en vaatziekten hebben (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement">NHG-Standaard Cardiovasculair risicomanagement</a>).</li>
+</ul>
+
+<h3 id="volledige-tekst-anamnese" class="section-heading">Anamnese</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-anamnese">Naar Samenvatting &rsaquo;</a>
+<p>Breng de aard en ernst van de klachten in kaart en de omstandigheden waarin deze optreden, informeer naar mogelijke oorzaken.</p>
+
+<h4 id="volledige-tekst-klachten" class="section-heading">Klachten</h4>
+<ul>
+<li>Verminderd inspanningsvermogen</li>
+<li>Kortademigheid bij geringe inspanning of in rust</li>
+<li>Vermoeidheid</li>
+<li>Orthopneu</li>
+<li>Aanvalsgewijze nachtelijke dyspneu</li>
+<li>Perifeer oedeem</li>
+<li>Nycturie</li>
+</ul>
+
+<h4 id="volledige-tekst-cardiale-problemen-in-de-voorgeschiedenis" class="section-heading">Cardiale problemen in de voorgeschiedenis</h4>
+<ul>
+<li>Myocardinfarct</li>
+<li>Coronaire bypassoperatie</li>
+<li>Percutane coronaire interventie</li>
+<li>Angina pectoris</li>
+<li>Congenitale hartziekte</li>
+<li>Kleplijden</li>
+</ul>
+
+<h4 id="volledige-tekst-mogelijke-uitlokkende-factoren" class="section-heading">Mogelijke uitlokkende factoren</h4>
+<ul>
+<li>Angineuze klachten zoals pijn op de borst (ischemie)</li>
+<li>Palpitaties of syncope (ritme- of geleidingsstoornis)</li>
+<li>Gebruik van toxische stoffen (alcohol, coca&iuml;ne, cytostatica)</li>
+<li>Gebruik van geneesmiddelen die kunnen leiden tot natrium- en vochtretentie (NSAID&rsquo;s inclusief COX-2-remmers, corticostero&iuml;den)</li>
+<li>Schildklierfunctiestoornis</li>
+<li>Anemie</li>
+</ul>
+
+<h4 id="volledige-tekst-risicofactoren-voor-hart-en-vaatziekten" class="section-heading">Risicofactoren voor hart- en vaatziekten</h4>
+<ul>
+<li>Roken</li>
+<li>Hypertensie</li>
+<li>Diabetes mellitus type 2</li>
+<li>Overmatig alcoholgebruik</li>
+<li>Hypercholesterolemie</li>
+<li>Obesitas</li>
+<li>Chronische nierschade.</li>
+</ul>
+
+
+
+<h3 id="volledige-tekst-lichamelijk-onderzoek" class="section-heading">Lichamelijk onderzoek</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-lichamelijk-onderzoek">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Ademfrequentie</li>
+<li>Bloeddruk</li>
+<li>Pols (frequentie en ritme)</li>
+<li>Ausculteer het hart; let op hartgeruisen wijzend op klepafwijkingen (met name aortaklepstenose en mitralisklepinsuffici&euml;ntie)</li>
+<li>Palpeer de ictus cordis (passend bij hartfalen indien buiten de midclaviculairlijn in rugligging of heffend/verbreed in linker zijligging)</li>
+<li>Tekenen van overvulling:
+<ul>
+<li>verhoogde centraalveneuze druk (uitgezette halsvenen)</li>
+<li>longen (crepitaties, demping en verminderd ademgeruis basaal, soms rhonchi en piepen)</li>
+<li>buik (vergrote lever, ascites)</li>
+<li>perifeer oedeem (enkels en sacrum)</li>
+</ul>
+</li>
+<li>Voedingstoestand en gewicht:
+<ul>
+<li>overgewicht geeft extra belasting voor het hart</li>
+<li>cachexie is prognostisch ongunstig</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 id="volledige-tekst-aanvullend-onderzoek" class="section-heading">Aanvullend onderzoek</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-aanvullend-onderzoek">Naar Samenvatting &rsaquo;</a>
+<p>Aanvullend onderzoek bij een vermoeden van hartfalen bestaat uit bepaling van het (NT-pro)BNP en een ecg (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-figuur1">figuur 1</a>).</p>
+<p><a id="volledige-tekst-figuur1" name="volledige-tekst-figuur1"></a></p>
+<figure class="caption caption-drupal-entity">
+
+<figure><a class="image-cb-toggler cboxElement" title="Figuur 1 Stroomschema diagnostiek van chronisch hartfalen" href="https://richtlijnen.nhg.org/files/2021-03/Hartfalen%20figuur%201.png"><img class="image-style-embed" src="https://richtlijnen.nhg.org/files/styles/embed/public/2021-03/Hartfalen%20figuur%201.png?itok=xhoSzzl6" alt="" /></a>
+<figcaption>
+</figcaption>
+</figure>
+
+<figcaption>BNP 35 pg/ml komt overeen met 10 pmol/l; NT-proBNP 125 pg/ml komt overeen met 15 pmol/l.</figcaption>
+</figure>
+
+<h4 id="volledige-tekst-nt-probnp" class="section-heading">(NT-pro)BNP</h4>
+<p>Bepaal het B-type natriuretisch peptide (BNP) of het N-terminaal proBNP (NT-proBNP) en gebruik daarbij de volgende afkapwaarden, ook als het laboratorium andere referentiewaarden aanhoudt:</p>
+<ul>
+<li>BNP 35 pg/ml (komt overeen met 10 pmol/l)</li>
+<li>NT-proBNP 125 pg/ml (komt overeen met 15 pmol/l)</li>
+</ul>
+<h5>Interpretatie</h5>
+<ul>
+<li>Bij een verhoogd (NT-pro)BNP is de kans dat de pati&euml;nt hartfalen heeft &ge; 40%; hoe hoger het (NT-pro)BNP, hoe groter deze kans.&nbsp;</li>
+<li>Een verhoogd (NT-pro)BNP kan ook andere oorzaken hebben (chronische nierschade, atriumfibrilleren, hoge leeftijd, ernstige infectie).</li>
+<li>Een normaal (NT-pro)BNP kan gevonden worden bij een minderheid van de pati&euml;nten met HFpEF, met name als er geen klachten zijn op het moment van bloedafname.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-ecg" class="section-heading">Ecg</h4>
+<p>Verricht een elektrocardiogram, desgewenst met interpretatie door een cardioloog.</p>
+
+
+
+<h4 id="volledige-tekst-overig-laboratoriumonderzoek" class="section-heading">Overig laboratoriumonderzoek</h4>
+<ul>
+<li>Overweeg het laboratoriumonderzoek uit te breiden met Hb, glucose en TSH ter uitsluiting van een andere oorzaak voor de klachten en eventuele comorbiditeit.</li>
+<li>Bepaal alvast natrium, kalium, eGFR en creatinine bij sterk vermoeden van hartfalen en mogelijk starten van medicatie.</li>
+</ul>
+
+<h4 id="volledige-tekst-predictieregel" class="section-heading">Predictieregel</h4>
+<p>Het gebruik van een predictieregel bij pati&euml;nten met een vermoeden van hartfalen wordt niet aanbevolen.</p>
+
+
+
+<h4 id="volledige-tekst-echocardiografie" class="section-heading">Echocardiografie</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-echocardiografie">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Indicaties voor echocardiografie (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-figuur1">figuur 1</a>):
+<ul>
+<li>vermoeden van hartfalen en&nbsp;</li>
+<li>verhoogd (NT-pro)BNP en/of&nbsp;</li>
+<li>afwijkend ecg</li>
+</ul>
+</li>
+<li>Verwijs voor echocardiografie naar de cardioloog. Soms is eerstelijns echocardiografie met beoordeling door een cardioloog voorhanden, gevolgd door een advies de pati&euml;nt wel of niet te verwijzen.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-verder-onderzoek-naar-de-oorzaak" class="section-heading">Verder onderzoek naar de oorzaak</h4>
+<ul>
+<li>Op basis van anamnese, lichamelijk onderzoek, laboratoriumonderzoek, ecg en echocardiogram kan worden vastgesteld of er sprake is van hartfalen, wat de mogelijke oorzaak is (bijvoorbeeld cardiomyopathie of kleplijden) en kan de ernst van het hartfalen worden ingeschat.</li>
+<li>De diagnose &lsquo;hartfalen&rsquo; zal in de meeste gevallen worden gesteld door de cardioloog. Verder onderzoek naar de oorzaak en het opstarten van de behandeling zullen dan plaatsvinden in de tweede lijn.</li>
+</ul>
+
+<h4 id="volledige-tekst-aanvullend-onderzoek-indien-geen-verwijzing-naar-de-tweede-lijn" class="section-heading">Aanvullend onderzoek indien geen verwijzing naar de tweede lijn</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-aanvullend-onderzoek-indien-geen-verwijzing-naar-de-tweede-lijn">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Overweeg in het bijzonder bij oudere pati&euml;nten met een vermoeden van HFpEF (bijvoorbeeld op basis van hypertensie of het ontbreken van een myocardinfarct in de voorgeschiedenis) om verwijzing naar de tweede lijn achterwege te laten; dit in overleg met de pati&euml;nt.</li>
+<li>Ook comorbiditeit of kwetsbaarheid, waarbij het wenselijk is de zorg zo gecentraliseerd en geco&ouml;rdineerd mogelijk te leveren, kan een reden zijn om niet te verwijzen.</li>
+<li>Vericht een (NT-pro)BNP-bepaling en eventueel een ecg.</li>
+<li>Laat bij verhoogd (NT-pro)BNP en/of afwijkend ecg desgewenst eerstelijns echocardiografie uitvoeren, indien beschikbaar in de regio.</li>
+<li>Overweeg de volgende onderzoeken om andere oorzaken of eventuele comorbiditeit aan te tonen of uit te sluiten:
+<ul>
+<li>bloedonderzoek (Hb, glucose, TSH)</li>
+<li>X-thorax (pulmonale en intrathoracale pathologie zoals pneumonie of longmaligniteit)</li>
+<li>spirometrie (astma, COPD)</li>
+</ul>
+</li>
+</ul>
+<p><strong>Nota bene</strong>&nbsp;Bij onbehandeld hartfalen kan spirometrie een obstructief beeld laten zien door vocht rondom de bronchioli. Verricht spirometrie daarom niet eerder dan na 3 maanden behandeling van het hartfalen, wanneer de pati&euml;nt stabiel is.</p>
+
+
+
+<h3 id="volledige-tekst-evaluatie" class="section-heading">Evaluatie</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-evaluatie">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Bij een verhoogd (NT-pro)BNP en/of een afwijkend ecg is echocardiografie ge&iuml;ndiceerd. Verwijs hiervoor naar een cardioloog of verricht eerstelijns echocardiografie met beoordeling door een cardioloog.</li>
+<li>Bij een normaal (NT-pro)BNP en ecg is hartfalen onwaarschijnlijk en moeten alternatieve diagnoses worden overwogen.</li>
+</ul>
+
+<h4 id="volledige-tekst-diagnose-hartfalen-na-echocardiografie" class="section-heading">Diagnose &lsquo;hartfalen&rsquo; na echocardiografie</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-diagnose-hartfalen-na-echocardiografie">Naar Samenvatting &rsaquo;</a>
+<p>De cardioloog stelt de diagnose op basis van onderstaande criteria.</p>
+<h5>HFpEF</h5>
+<ul>
+<li>Klachten passend bij hartfalen</li>
+<li>Verhoogd (NT-pro)BNP</li>
+<li>Afwijkend echocardiogram:
+<ul>
+<li>LVEF &ge; 50%</li>
+<li>aanwijzingen voor structurele veranderingen (linkerventrikelhypertrofie of een gedilateerd linker atrium) en/of</li>
+<li>aanwijzingen voor diastolische disfunctie.</li>
+</ul>
+</li>
+</ul>
+<h5>HFmrEF</h5>
+<ul>
+<li>Klachten passend bij hartfalen</li>
+<li>Verhoogd (NT-pro)BNP</li>
+<li>Afwijkend echocardiogram:
+<ul>
+<li>LVEF 40-49%</li>
+<li>aanwijzingen voor structurele veranderingen (linkerventrikelhypertrofie of een gedilateerd linker atrium) en/of</li>
+<li>aanwijzingen voor diastolische disfunctie.</li>
+</ul>
+</li>
+</ul>
+<h5>HFrEF</h5>
+<ul>
+<li>Klachten passend bij hartfalen</li>
+<li>Afwijkend echocardiogram: LVEF &lt; 40%</li>
+</ul>
+<h5>Oorzaak</h5>
+<p>Bij vastgesteld hartfalen wordt de meest waarschijnlijke oorzaak opgespoord; belangrijke oorzaken zijn hypertensie, ischemische hartziekte, ritme- en geleidingsstoornissen en klepafwijkingen.</p>
+
+
+
+<h4 id="volledige-tekst-inschatting-hartfalen-zonder-echocardiografie" class="section-heading">Inschatting hartfalen zonder echocardiografie</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-inschatting-hartfalen-zonder-echocardiografie">Naar Samenvatting &rsaquo;</a>
+<p>Als echocardiografie geen optie is, maak dan een inschatting van het type hartfalen op basis van risicofactoren.</p>
+<ul>
+<li>HFpEF komt vaker voor bij:
+<ul>
+<li>hoge leeftijd</li>
+<li>vrouwelijk geslacht</li>
+<li>obesitas</li>
+<li>hypertensie</li>
+<li>COPD</li>
+<li>atriumfibrilleren</li>
+<li>diabetes mellitus type 2</li>
+<li>voorgeschiedenis z&oacute;nder myocardinfarct</li>
+</ul>
+</li>
+<li>HFrEF komt vaker voor bij:
+<ul>
+<li>voorgeschiedenis m&eacute;t myocardinfarct</li>
+</ul>
+</li>
+</ul>
+
+<h4 id="volledige-tekst-nyha-classificatie--2" class="section-heading">NYHA-classificatie</h4>
+<p>Maak een inschatting van de NYHA-klasse op basis van de ernst van de klachten bij inspanning (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-tabel1">tabel 1</a>).</p>
+
+
+<h2 id="volledige-tekst-richtlijnen-beleid" class="section-heading collapsible-toggler shdi-init open" tabindex="0" data-once="shdi tpe">Richtlijnen beleid</h2>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-richtlijnen-beleid">Naar Samenvatting &rsaquo;</a>
+
+<h3 id="volledige-tekst-voorlichting" class="section-heading">Voorlichting</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-voorlichting">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Geef onderstaande voorlichting en adviezen aan alle pati&euml;nten met HFpEF, HFmrEF en HFrEF.</li>
+<li>Laat de voorlichting zoveel mogelijk aansluiten bij de wensen, gewoonten, mogelijkheden en gezondheidsvaardigheden van de pati&euml;nt.<br />&nbsp;</li>
+</ul>
+
+<h4 id="volledige-tekst-voorlichting-over-de-aandoening" class="section-heading">Voorlichting over de aandoening</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-voorlichting-over-de-aandoening">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Leg uit dat de pompfunctie van het hart verminderd is, waardoor klachten ontstaan zoals kortademigheid, vermoeidheid en dikke onderbenen.</li>
+<li>Bespreek wat de oorzaak is en of deze te behandelen is.</li>
+<li>Leg uit dat de klachten bij hartfalen in het algemeen geleidelijk toenemen en dat de achteruitgang vaak onvoorspelbaar verloopt met exacerbaties.</li>
+<li>Check regelmatig, eventueel door middel van de terugvraagmethode, of de pati&euml;nt alles heeft begrepen en of herhaalde voorlichting nodig is.</li>
+<li>Vraag zo nodig of een naaste van de pati&euml;nt wil meeluisteren, meedenken en meepraten.</li>
+<li>Start bij hartfalen NYHA-klasse III-IV tijdig gesprekken over advance care planning (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-advance-care-planning">Advance care planning</a>); verwijs zo nodig naar de informatie op&nbsp;<a class="ext" href="https://www.thuisarts.nl/levenseinde" target="_blank" rel="noopener" data-extlink="">Thuisarts.nl</a>.</li>
+</ul>
+
+<h4 id="volledige-tekst-voorlichting-over-medicatie" class="section-heading">Voorlichting over medicatie</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-voorlichting-over-medicatie">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Medicijnen verlichten het werk dat het hart moet leveren en kunnen zo de pompfunctie verbeteren.</li>
+<li>Klachten nemen door het gebruik van medicijnen meestal af, evenals de kans op exacerbaties en overlijden.</li>
+<li>De medicijnen zijn vaak levenslang nodig.</li>
+<li>Het is belangrijk om medicijnen elke dag in te nemen volgens voorschrift, ook indien de pati&euml;nt geen verschil merkt na inname</li>
+<li>Enige klachten van duizeligheid en licht gevoel in het hoofd komen bij aanvang vaak voor en worden vaak vanzelf minder.</li>
+<li>Adviseer de pati&euml;nt tijdig contact op te nemen bij hoge koorts, fors braken en/of forse diarree, omdat dit kan leiden tot dehydratie waardoor mogelijk dosisaanpassing van de medicatie nodig is.</li>
+<li>Wijs op de gevaren van NSAID&rsquo;s (zelfmedicatie) en ontraad het gebruik ervan (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/pijn" target="_blank">NHG-Standaard Pijn</a>).<br />&nbsp;</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-voorlichting-over-zelfzorg-en-flexibel-diureticumbeleid" class="section-heading">Voorlichting over zelfzorg en flexibel diureticumbeleid</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-voorlichting-over-zelfzorg-en-flexibel-diureticumbeleid">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Adviseer de pati&euml;nt zich met enige regelmaat te wegen (bijvoorbeeld 2 &times; per week).</li>
+<li>Instrueer de pati&euml;nt tijdig contact op te nemen en tijdelijk extra diuretica in te nemen (flexibel diureticumbeleid) bij tekenen van extra vocht vasthouden:
+<ul>
+<li>toename van kortademigheid of dikke onderbenen</li>
+<li>gewichtstoename &ge; 2 kg binnen 3 dagen</li>
+</ul>
+</li>
+<li>Een flexibel diureticumbeleid komt meestal neer op verdubbeling van de dosering gedurende 2-7 dagen bij tekenen van vocht vasthouden.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-overige-voorlichting" class="section-heading">Overige voorlichting</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-overige-voorlichting">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Adviseer de jaarlijkse griepvaccinatie.</li>
+<li>Seksuele activiteit is in het algemeen goed mogelijk; in NYHA-klasse III of IV is het risico op decompensatie licht verhoogd, deze pati&euml;nten kunnen eventueel profylactisch nitroglycerine (sublinguaal) gebruiken.</li>
+<li>Autorijden (rijbewijs A, B, BE of T):
+<ul>
+<li>NYHA-klasse I en II: toegestaan</li>
+<li>NYHA-klasse III: toegestaan met rapport van een medisch specialist</li>
+<li>NYHA-klasse IV: niet toegestaan&nbsp;</li>
+</ul>
+</li>
+<li>Vrachtwagen of autobus besturen (rijbewijs C, CE, D of DE):
+<ul>
+<li>NYHA-klasse I en II: toegestaan met rapport van een medisch specialist</li>
+<li>NYHA-klasse III en IV: niet toegestaan&nbsp;</li>
+</ul>
+</li>
+<li>Vliegen: pati&euml;nten met hartfalen mogen per vliegtuig reizen.</li>
+<li>Ontraad aan niet geheel klachtenvrije pati&euml;nten verblijf op grote hoogte (kortdurend &gt; 2000 m of langerdurend &gt; 1500 m) en reizen naar zeer warme en vochtige gebieden.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-bedrijfsarts" class="section-heading">Bedrijfsarts</h4>
+<p>Adviseer pati&euml;nten zo nodig een bedrijfsarts te consulteren als zij vragen hebben omtrent werk of re-integratie.</p>
+
+<h4 id="volledige-tekst-thuisarts" class="section-heading">Thuisarts</h4>
+<ul>
+<li>Verwijs naar de informatie op&nbsp;<a class="ext" href="https://www.thuisarts.nl/hartfalen" target="_blank" rel="noopener" data-extlink="">Thuisarts.nl</a>. De informatie op Thuisarts.nl is gebaseerd op deze NHG-Standaard.</li>
+<li>Wijs de pati&euml;nt ook op informatie van de&nbsp;<a class="ext" href="https://harteraad.nl/" target="_blank" rel="noopener" data-extlink="">Harteraad</a>&nbsp;of de&nbsp;<a class="ext" href="https://www.hartstichting.nl/" target="_blank" rel="noopener" data-extlink="">Hartstichting</a>.</li>
+</ul>
+
+<h3 id="volledige-tekst-niet-medicamenteuze-behandeling" class="section-heading">Niet-medicamenteuze behandeling</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-niet-medicamenteuze-behandeling">Naar Samenvatting &rsaquo;</a>
+<h4 id="volledige-tekst-vocht-en-zoutbeperking" class="section-heading">Vocht- en zoutbeperking</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-vocht-en-zoutbeperking">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Adviseer geen zout toe te voegen bij de maaltijdbereiding en de inname te beperken van producten die veel zout bevatten.</li>
+<li>Ontraad het gebruik van zoutvervangende producten die kalium bevatten.</li>
+<li>Adviseer pati&euml;nten in NYHA-klasse III en IV de vochtinname te beperken tot 1,5-2 l per dag.</li>
+<li>Verwijs de pati&euml;nt zo nodig naar een di&euml;tist voor begeleiding.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-beweging" class="section-heading">Beweging</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-beweging">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Ga na hoeveel de pati&euml;nt beweegt en wat eventuele belemmeringen zijn.</li>
+<li>Adviseer pati&euml;nten die stabiel zijn regelmatig te bewegen voor zover de klachten dat toelaten; houd rekening met de mogelijkheden en wensen van de pati&euml;nt.</li>
+<li>Overweeg verwijzing naar:
+<ul>
+<li>multidisciplinaire hartrevalidatie (via de cardioloog, zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-consultatie-en-verwijzing">Consultatie en verwijzing</a>)</li>
+<li>een gespecialiseerde fysio- of oefentherapeut voor beweegadviezen en begeleiding.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-leefstijl" class="section-heading">Leefstijl</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-leefstijl">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Bij onbedoeld gewichtsverlies van &gt; 5% in &le; 6 maanden of &gt; 10% in &gt; 6 maanden: schenk aandacht aan de voedingstoestand en ga na of de pati&euml;nt voldoende calorie&euml;n binnenkrijgt; verwijs zo nodig naar een di&euml;tist.</li>
+<li>Bij ernstige obesitas (BMI &gt; 35 kg/m<sup>2</sup>): adviseer de pati&euml;nt af te vallen; verwijs zo nodig naar een di&euml;tist.</li>
+<li>Er is onvoldoende bewijs om het gebruik van omega-3-vetzuren aan te bevelen als aanvulling op de standaardbehandeling voor hartfalen.</li>
+<li>Voor overige leefstijladviezen (roken, voeding, alcohol), zie:&nbsp;
+<ul>
+<li><a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement">NHG-Standaard Cardiovasculair risicomanagement</a></li>
+<li><a href="https://richtlijnen.nhg.org/behandelrichtlijnen/stoppen-met-roken">NHG-Behandelrichtlijn Stoppen met roken</a></li>
+<li><a class="ext" href="https://www.nhg.org/dossiervoeding" target="_blank" rel="noopener" data-extlink="">NHG-Zorgmodule Leefstijl Voeding</a></li>
+<li><a class="ext" href="https://www.nhg.org/actueel/dossiers/dossier-alcohol" target="_blank" rel="noopener" data-extlink="">NHG-Zorgmodule Leefstijl Alcohol</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-individueel-zorgplan-" class="section-heading">Individueel zorgplan</h4>
+<ul>
+<li>Bespreek met de pati&euml;nt de wenselijkheid om samen een individueel zorgplan (IZP) op te stellen, dat tot doel heeft:
+<ul>
+<li>de zorg af te stemmen op de doelen, behoeften en wensen van de pati&euml;nt&nbsp;</li>
+<li>inzicht te krijgen in de betrokkenheid van andere zorgverleners</li>
+</ul>
+</li>
+<li>Stel het IZP op samen met de pati&euml;nt en diens mantelzorgers of naasten.</li>
+<li>Breng eerst de ervaren problemen in kaart op een probleemlijst; hiervoor bestaan diverse modellen.</li>
+<li>Inventariseer vervolgens welke problemen prioriteit hebben en welke bijbehorende doelen de pati&euml;nt wil behalen.</li>
+<li>Leg in het IZP vast:
+<ul>
+<li>de doelen die de pati&euml;nt wil behalen</li>
+<li>de acties om deze doelen te bereiken en wie die acties uitvoert</li>
+<li>een evaluatiedatum</li>
+<li>wie de zorg co&ouml;rdineert (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-organisatie-van-de-zorg">Organisatie van de zorg</a>)</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 id="volledige-tekst-medicamenteuze-behandeling" class="section-heading">Medicamenteuze behandeling</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-medicamenteuze-behandeling">Naar Samenvatting &rsaquo;</a>
+<h4 id="volledige-tekst-hoofddoelen" class="section-heading">Hoofddoelen</h4>
+<ul>
+<li>Klachten, functioneren en kwaliteit van leven verbeteren</li>
+<li>Ziekenhuisopname voorkomen</li>
+<li>Mortaliteit verminderen</li>
+</ul>
+
+<h4 id="volledige-tekst-indicaties" class="section-heading">Indicaties</h4>
+<ul>
+<li>In principe is de cardioloog degene die de medicatie ter behandeling van hartfalen start.</li>
+<li>Bij pati&euml;nten die naar de cardioloog zijn verwezen wegens een sterk vermoeden van hartfalen kan de huisarts ervoor kiezen de medicatie alvast te starten.</li>
+<li>Bij pati&euml;nten die niet naar het ziekenhuis kunnen of willen, kan de huisarts de medicatie instellen ook zonder dat de cardioloog de diagnose &lsquo;hartfalen&rsquo; heeft gesteld.</li>
+<li>Bij HFpEF kan de huisarts de pati&euml;nt doorgaans zelf behandelen en begeleiden.</li>
+</ul>
+
+<h4 id="volledige-tekst-medicamenteuze-behandeling-van-hfpef" class="section-heading">Medicamenteuze behandeling van HFpEF</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-medicamenteuze-behandeling-van-hfpef">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Streef naar symptoomverlichting en verbetering van de kwaliteit van leven; geen enkele behandeling heeft een aangetoond effect op de morbiditeit en mortaliteit van HFpEF.</li>
+<li>Behandel cardiovasculaire en niet-cardiovasculaire morbiditeit conform de betreffende richtlijnen.</li>
+<li>Behandel hypertensie volgens de&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement" target="_blank">NHG-Standaard Cardiovasculair risicomanagement</a>, maar vermijd calciumantagonisten met een niet-dihydropiridinestructuur (diltiazem en verapamil) vanwege hun negatief inotrope effect.</li>
+<li>Geef bij tekenen van overvulling een lisdiureticum (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-tabel9">tabel 9</a>); verlaag de dosis als de pati&euml;nt voldoende ontwaterd is tot de laagste effectieve dosering of staak tijdelijk.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-medicamenteuze-behandeling-van-hfref-en-hfmref" class="section-heading">Medicamenteuze behandeling van HFrEF en HFmrEF</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-medicamenteuze-behandeling-van-hfref-en-hfmref">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Behandel pati&euml;nten met HFmrEF hetzelfde als pati&euml;nten met HFrEF; volg daarbij het&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>.</li>
+<li>Pas bij HFrEF en HFmrEF naast lisdiuretica RAS-remmers, b&egrave;tablokkers en aldosteronantagonisten toe conform het stappenplan. RAS-remmers (antagonisten van het renine-angiotensinesysteem) zijn angiotensineconverterendenzymremmers (ACE-remmers) of angiotensinereceptorblokkers (ARB&rsquo;s).</li>
+<li>Streef naar maximale dosering van RAS-remmers, b&egrave;tablokkers en aldosteronantagonisten, want pati&euml;nten die hoge doseringen verdragen, hebben de beste prognose.</li>
+<li>Voor doseringen, zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-tabel9">tabel 9</a>&nbsp;(lisdiuretica) en&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-tabel10">tabel 10</a>&nbsp;(RAS-remmers, b&egrave;tablokkers en aldosteronantagonisten).</li>
+</ul>
+
+<h5 id="volledige-tekst-stappenplan-hartfalenmedicatie" class="section-heading">Stappenplan hartfalenmedicatie</h5>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-stappenplan-hartfalenmedicatie">Naar Samenvatting &rsaquo;</a>
+<ol>
+<li>Controleer voor aanvang van de behandeling of eGFR plus creatinine, natrium en kalium recent bepaald zijn; overleg zo nodig met de cardioloog bij afwijkende waarden.</li>
+<li>Start een RAS-remmer (een ACE-remmer of indien deze niet wordt verdragen een ARB) in lage dosering. Start bij tekenen van overvulling een lisdiureticum.</li>
+<li>Voeg bij pati&euml;nten die met RAS-remmer en diureticum klinisch stabiel zijn (geen duidelijke tekenen van overvulling hebben) een b&egrave;tablokker toe in lage dosering.</li>
+<li>Verhoog de dosering van de RAS-remmer en b&egrave;tablokker (bijvoorbeeld per 2 weken) tot de maximale dosis die wordt verdragen, met inachtneming van de maximale dosering. Verhoog de b&egrave;tablokker niet bij tekenen van exacerbatie, hypotensie of bradycardie.</li>
+<li>Verlaag de dosering van het lisdiureticum als de pati&euml;nt voldoende ontwaterd is en continueer de laagste effectieve dosering.</li>
+<li>Overweeg toevoeging van een aldosteronantagonist bij pati&euml;nten die klachten houden ondanks adequate instelling op RAS-remmer, diureticum en b&egrave;tablokker:
+<ul>
+<li>aldosteronantagonisten worden in principe aanbevolen bij een LVEF &lt; 35%, maar voor pati&euml;nten bij wie echocardiografie niet mogelijk of wenselijk is, kan de huisarts een aldosteronantagonist toevoegen op basis van de klachten</li>
+<li>overweeg de dosis van de aldosteronantagonist te verdubbelen indien het hartfalen na 4-8 weken niet is verbeterd, de nierfunctie niet verslechtert en het kalium &lt; 5 mmol/l blijft.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p><a id="volledige-tekst-tabel9" name="volledige-tekst-tabel9"></a></p>
+
+<table data-once="scrollable stndct"><caption>Tabel 9 Dosering van lisdiuretica</caption>
+<thead>
+<tr>
+<th><strong>Geneesmiddel&nbsp;</strong></th>
+<th><strong>Gebruikelijke dagdosering (afhankelijk van de ernst van de klachten)*</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Furosemide</td>
+<td>40-240 mg in 1-3 doses</td>
+</tr>
+<tr>
+<td>Bumetanide&nbsp;</td>
+<td>&nbsp;1-6 mg in 1-2 doses</td>
+</tr>
+<tr>
+<td colspan="2">*Bij verminderde nierfunctie is een hogere dosering nodig.</td>
+</tr>
+</tbody>
+</table>
+<a class="table-cb-toggler cboxElement" href="https://richtlijnen.nhg.org/standaarden/hartfalen#">Open tabel</a>
+<p><a id="volledige-tekst-tabel10" name="volledige-tekst-tabel10"></a></p>
+
+<table data-once="scrollable stndct"><caption>Tabel 10 Startdosering en maximale dosering van ACE-remmers, ARB&rsquo;s, b&egrave;tablokkers en aldosteronantagonisten</caption>
+<thead>
+<tr>
+<th><strong>Geneesmiddel(groep)</strong></th>
+<th><strong>Startdosis</strong></th>
+<th><strong>Maximale dagdosering*</strong></th>
+<th><strong>Dagdosering bij verminderde nierfunctie</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"><strong>ACE-remmers&nbsp;</strong></td>
+</tr>
+<tr>
+<td>enalapril</td>
+<td>&nbsp;2 dd 2,5 mg</td>
+<td>&nbsp;2 dd 20 mg</td>
+<td>eGFR 30-50: startdosis 2 dd 2,5 mg; maximale dosis 2 dd 5 mg<br />eGFR 10-30: startdosis 1 dd 2,5 mg; maximale dosis 2 dd 2,5 mg</td>
+</tr>
+<tr>
+<td>lisinopril</td>
+<td>1 dd 2,5 mg</td>
+<td>1dd 40 mg</td>
+<td>&nbsp;Geen aanpassing</td>
+</tr>
+<tr>
+<td>perindopril<sup>&dagger;</sup></td>
+<td>&nbsp;1 dd 2 mg</td>
+<td>1 dd 8 mg</td>
+<td>eGFR 30-50: maximale dosis 2 mg<br />eGFR 10-30: maximale dosis 2 mg om de dag</td>
+</tr>
+<tr>
+<td>ramipril tablet</td>
+<td>&nbsp;1 dd 1,25 mg</td>
+<td>2 dd 5 mg</td>
+<td>eGFR 10-50: maximale dosis 2 dd 2,5 mg<br />&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4"><strong>ARB&rsquo;s</strong></td>
+</tr>
+<tr>
+<td>candesartan&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;</td>
+<td>1 dd 4 mg</td>
+<td>1 dd 32 mg</td>
+<td>Geen aanpassing</td>
+</tr>
+<tr>
+<td>losartan<sup>&Dagger;&nbsp;</sup></td>
+<td>1 dd 12,5 mg</td>
+<td>1 dd 150 mg</td>
+<td>Geen aanpassing</td>
+</tr>
+<tr>
+<td>valsartan</td>
+<td>2 dd 40 mg</td>
+<td>2 dd 160 mg&nbsp;&nbsp; &nbsp;</td>
+<td>Geen aanpassing</td>
+</tr>
+<tr>
+<td colspan="4"><strong>B&egrave;tablokkers</strong></td>
+</tr>
+<tr>
+<td>bisoprolol<sup>&Dagger;</sup></td>
+<td>1 dd 1,25 mg</td>
+<td>1 dd 10 mg</td>
+<td>eGFR 10-30: startdosis halve tablet van 1,25 mg&nbsp;</td>
+</tr>
+<tr>
+<td>metoprololsuccinaat<br />mga</td>
+<td>1 dd 12,5-25 mg</td>
+<td>1 dd 200 mg &nbsp;&nbsp; &nbsp;</td>
+<td>Geen aanpassing</td>
+</tr>
+<tr>
+<td colspan="4"><strong>Aldosteronantagonisten</strong></td>
+</tr>
+<tr>
+<td>spironolacton</td>
+<td>1 dd 12,5-25 mg</td>
+<td>1 dd 50 mg</td>
+<td>Geen aanpassing.<br />eGFR 10-50: bepaal eGFR + creatinine en kalium binnen 1 week na aanvang<br />(eGFR &lt; 30: overweeg consultatie cardioloog vanwege risico op hyperkali&euml;mie en afname nierfunctie)</td>
+</tr>
+<tr>
+<td colspan="4">ACE = angiotensineconverterendenzymremmer; ARB = angiotensinereceptorblokker; eGFR = geschatte glomerulaire filtratiesnelheid; mga = met gereguleerde afgifte.<br />* Streef naar de maximale dosis die de pati&euml;nt verdraagt.<br />&dagger; Voorkeursmiddel perindopril-tertbutylamine (laagste kosten).<br />&Dagger; Voorkeursmiddel (laagste kosten).</td>
+</tr>
+</tbody>
+</table>
+<a class="table-cb-toggler cboxElement" href="https://richtlijnen.nhg.org/standaarden/hartfalen#">Open tabel</a>
+
+<h5 id="volledige-tekst-dosisverhoging-betablokker" class="section-heading">Dosisverhoging b&egrave;tablokker</h5>
+<ul>
+<li>Bij sommige pati&euml;nten geven b&egrave;tablokkers in de beginfase tijdelijk verergering van de klachten. Verhoog de dosering dan langzaam tot de maximaal getolereerde dosis.</li>
+<li>Verhoog de dosering b&egrave;tablokker niet bij:
+<ul>
+<li>tekenen van exacerbatie (meer vochtretentie)</li>
+<li>symptomatische hypotensie (bijvoorbeeld duizeligheid bij opstaan)</li>
+<li>bradycardie (&lt; 50/min)</li>
+</ul>
+</li>
+</ul>
+
+<h5 id="volledige-tekst-controles-na-aanvang-of-aanpassing-medicatie" class="section-heading">Controles na aanvang of aanpassing medicatie</h5>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-controles-na-aanvang-of-aanpassing-medicatie">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>Vraag naar klachten (inspanningsvermogen) en mogelijke bijwerkingen van de medicatie.</li>
+<li>Meet bloeddruk, pols en gewicht.&nbsp;</li>
+<li>Bij asymptomatische lage bloeddruk en sinusbradycardie is aanpassing van de medicatie meestal niet nodig.</li>
+<li>Bepaal 1-2 weken na start of aanpassing van diureticum, RAS-remmer of aldosteronantagonist eGFR plus creatinine, natrium en kalium:
+<ul>
+<li>bij afwijkende laboratoriumuitslagen, zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-beleid-bij-laboratoriumafwijkingen">Beleid bij laboratoriumafwijkingen</a>.</li>
+<li>bij goede instelling op de medicatie, zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-controles-in-de-stabiele-fase">Controles in de stabiele fase</a>.</li>
+</ul>
+</li>
+</ul>
+
+<h5 id="volledige-tekst-maximale-dosering-voor-vrouwen-en-mannen" class="section-heading">Maximale dosering voor vrouwen en mannen</h5>
+<p>De maximale doseringen van medicatie voor hartfalen verschillen niet tussen mannen en vrouwen.</p>
+
+
+
+<h4 id="volledige-tekst-verdere-aandachtspunten-bij-het-voorschrijven-van-medicatie" class="section-heading">Verdere aandachtspunten bij het voorschrijven van medicatie</h4>
+
+<h5 id="volledige-tekst-lisdiuretica" class="section-heading">Lisdiuretica</h5>
+<ul>
+<li>Overweeg bij een hoge dosering furosemide over te stappen op bumetanide vanwege het gebruiksgemak en mogelijke bevordering van de therapietrouw; er is geen bewijs voor verschil in effectiviteit tussen beide middelen.</li>
+<li>Bij onvoldoende respons kan de dosering verdeeld worden over meerdere innamemomenten op de dag (vermijd inname na 18:00 uur om nachtelijke mictie te voorkomen).</li>
+</ul>
+
+
+
+<h5 id="volledige-tekst-thiazidediuretica" class="section-heading">Thiazidediuretica</h5>
+<ul>
+<li>Thiazidediuretica worden soms toegevoegd door de cardioloog bij diureticaresistentie.</li>
+<li>Er is geen indicatie meer voor behandeling met thiazidediuretica door de huisarts.&nbsp;</li>
+</ul>
+
+<h5 id="volledige-tekst-betablokkers" class="section-heading">B&egrave;tablokkers</h5>
+<ul>
+<li>Stoppen met een b&egrave;tablokker moet zoveel mogelijk vermeden worden, mede gezien de reflextachycardie die daardoor ontstaat.</li>
+<li>Een tweede- of derdegraads AV-blok is een contra-indicatie voor een b&egrave;tablokker. Bij een eerstegraads AV-blok is voorzichtigheid geboden vanwege de kans op progressie van het AV-blok</li>
+</ul>
+
+
+
+<h5 id="volledige-tekst-aldosteronantagonisten" class="section-heading">Aldosteronantagonisten</h5>
+<p>Vervang spironolacton door eplerenon indien de pati&euml;nt last heeft van anti-androgene of antiprogestagene bijwerkingen (gynecomastie, pijnlijke borsten, stemverlaging).</p>
+
+
+
+<h5 id="volledige-tekst-digoxine-en-orale-anticoagulantia" class="section-heading">Digoxine en orale anticoagulantia</h5>
+<ul>
+<li>Er is in de eerste lijn geen plaats voor digoxine in de behandeling van pati&euml;nten met hartfalen zonder atriumfibrilleren.</li>
+<li>Voor de behandeling met orale anticoagulantia van pati&euml;nten met hartfalen en atriumfibrilleren zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/atriumfibrilleren" target="_blank">NHG-Standaard Atriumfibrilleren</a>.</li>
+</ul>
+
+
+
+<h5 id="volledige-tekst-cardiovasculair-risicomanagement" class="section-heading">Cardiovasculair risicomanagement</h5>
+<ul>
+<li>Stel de indicatie voor lipidenverlagende medicatie of antitrombotica op basis van comorbiditeit (bijvoorbeeld coronairlijden of atriumfibrilleren); de diagnose &lsquo;hartfalen&rsquo; alleen is onvoldoende indicatie voor gebruik van deze middelen.</li>
+<li>Houd er bij de risicoschatting rekening mee dat er bij hartfalen heel vaak sprake is van een onderliggende ischemische cardiovasculaire aandoening en dat de pati&euml;nt in dat geval een zeer hoog risico heeft op nieuwe hart- en vaatziekten (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement" target="_blank">NHG-Standaard Cardiovasculair risicomanagement</a>).</li>
+</ul>
+
+<h5 id="volledige-tekst-diltiazem-en-verapamil" class="section-heading">Diltiazem en verapamil</h5>
+<ul>
+<li>Staak calciumantagonisten met een niet-dihydropiridinestructuur (diltiazem en verapamil) vanwege het negatief inotrope effect.</li>
+<li>Ga afhankelijk van de behandelindicatie na of vervanging mogelijk is door een geneesmiddel uit een andere groep.</li>
+<li>Sluit bij vervanging zoveel mogelijk aan op de middelen die worden aanbevolen in het&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>.</li>
+</ul>
+
+<h5 id="volledige-tekst-sglt-2-remmers" class="section-heading">SGLT-2-remmers</h5>
+<ul>
+<li>Overweeg een SGLT-2-remmer bij pati&euml;nten met diabetes mellitus type 2 en hartfalen omdat deze middelen de kans op exacerbaties van hartfalen bij deze pati&euml;nten verlagen.(zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/diabetes-mellitus-type-2">NHG-Standaard Diabetes mellitus type 2</a>).</li>
+<li>Het starten van een SGLT-2-remmer ter behandeling van hartfalen bij pati&euml;nten zonder diabetes mellitus type 2 wordt niet aanbevolen.</li>
+</ul>
+
+
+
+<h5 id="volledige-tekst-arni-en-ivabradine" class="section-heading">ARNI en ivabradine</h5>
+<p>Geef in de eerste lijn geen angiotensinereceptor-neprilysineremmer (ARNI) of ivabradine.</p>
+
+
+
+<h5 id="volledige-tekst-bij-voorkeur-te-vermijden-geneesmiddelen" class="section-heading">Bij voorkeur te vermijden geneesmiddelen</h5>
+<ul>
+<li>NSAID&rsquo;s inclusief COX-2 remmers</li>
+<li>Verapamil en diltiazem</li>
+<li>Pioglitazon en saxagliptine (orale bloedglucoseverlagende middelen voor de behandeling van diabetes mellitus type 2)</li>
+<li>Voeg geen ARB toe als de pati&euml;nt al een ACE-remmer gebruikt.</li>
+</ul>
+
+<h4 id="volledige-tekst-beleid-bij-laboratoriumafwijkingen" class="section-heading">Beleid bij laboratoriumafwijkingen</h4>
+
+<h5 id="volledige-tekst-nierfunctiedaling-na-starten-of-ophogen-van-een-ras-remmer" class="section-heading">Nierfunctiedaling na starten of ophogen van een RAS-remmer</h5>
+<ul>
+<li>eGFR 30-60 ml/min/1,73 m<sup>2</sup>: enige daling van de eGFR is normaal, een daling &lt; 20% van de uitgangswaarde, met 30 ml/min/1,73 m<sup>2</sup>&nbsp;als ondergrens, is acceptabel.</li>
+<li>eGFR 15-30 ml/min/1,73 m<sup>2</sup>: halveer de dosis en controleer eGFR na 2 weken.</li>
+<li>eGFR &lt; 15 ml/min/1,73 m<sup>2</sup>&nbsp;stop de RAS-remmer en controleer eGFR na 2 weken.</li>
+<li>eGFR aanhoudend laag (&lt; 30 ml/min/1,73 m<sup>2</sup>): consulteer of verwijs naar een cardioloog of internist-nefroloog.</li>
+</ul>
+
+<h5 id="volledige-tekst-nierfunctiedaling-na-starten-of-ophogen-van-een-aldosteronantagonist" class="section-heading">Nierfunctiedaling na starten of ophogen van een aldosteronantagonist</h5>
+<ul>
+<li>eGFR 15-44 ml/min/1,73 m<sup>2</sup>: halveer de dosis en controleer eGFR na 2 weken.</li>
+<li>eGFR &lt; 15 ml/min/1,73 m<sup>2</sup>: stop de aldosteronantagonist en controleer eGFR na 2 weken.</li>
+<li>eGFR aanhoudend laag (&lt; 30 ml/min/1,73 m<sup>2</sup>): consulteer of verwijs naar een cardioloog of internist-nefroloog.</li>
+</ul>
+
+<h5 id="volledige-tekst-hyperkaliemie" class="section-heading">Hyperkali&euml;mie</h5>
+<ul>
+<li>Overweeg de kaliumbepaling ongestuwd te herhalen (waarde kan verhoogd zijn als gevolg van gestuwde bloedafname).</li>
+<li>Adviseer kaliumbevattende voedingsmiddelen (bijvoorbeeld zoutvervangende producten) of supplementen te staken.</li>
+<li>Kalium &lt; 5,5 mmol/l is acceptabel; controleer het kalium na 2 weken om verdere stijging van het kalium uit te sluiten.</li>
+<li>Kalium 5,5-6,0 mmol/l:
+<ul>
+<li>bij gebruik van triamtereen of amiloride (sterk kaliumsparende diuretica): stop het middel en controleer het kalium na 2 weken</li>
+<li>bij gebruik van een aldosteronantagonist (spironolacton, eplerenon): halveer de dosering en controleer het kalium na 2 weken</li>
+<li>bij gebruik van een RAS-remmer en onvoldoende daling van de kaliumspiegel na dosisaanpassing of stoppen van bovengenoemde kaliumsparende diuretica: halveer de dosering van de RAS-remmer en controleer het kalium na 2 weken.</li>
+<li>overleg met de cardioloog indien het kalium niet daalt.</li>
+</ul>
+</li>
+<li>Kalium &gt; 6,0 mmol/l: stop de aldosteronantagonist en/of RAS-remmer en overleg met de cardioloog over het vervolgbeleid.</li>
+</ul>
+
+<h5 id="volledige-tekst-hypokaliemie" class="section-heading">Hypokali&euml;mie</h5>
+<ul>
+<li>Kalium 3,0-3,5 mmol/l: verhoog indien mogelijk de dosering van een eventuele RAS-remmer en/of voeg een aldosteronantagonist toe en/of geef kaliumsupplementen; controleer het kalium na 2 weken.</li>
+<li>Kalium &lt; 3,0 mmol/l: overleg met de cardioloog of internist.</li>
+</ul>
+
+<h5 id="volledige-tekst-hyponatriemie" class="section-heading">Hyponatri&euml;mie</h5>
+<p>Overleg zo nodig met de cardioloog of internist over het beleid met betrekking tot diuretica, zoutinname en eventuele vochtbeperking.</p>
+
+<h3 id="volledige-tekst-controles" class="section-heading">Controles</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-controles">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>De instelfase op medicatie vindt veelal plaats in de tweede lijn. De huisarts kan, afhankelijk van regionale afspraken, de controles doen bij:
+<ul>
+<li>pati&euml;nten voor wie behandeling in de tweede lijn niet wenselijk is, bijvoorbeeld vanwege comorbiditeit en/of kwetsbaarheid</li>
+<li>pati&euml;nten met HFpEF</li>
+<li>pati&euml;nten met HFrEF die stabiel zijn</li>
+</ul>
+</li>
+<li>Controles vinden soms plaats in een combinatie van eerste- en tweedelijnszorg.</li>
+</ul>
+
+<h4 id="volledige-tekst-controles-in-de-stabiele-fase" class="section-heading">Controles in de stabiele fase</h4>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-controles-in-de-stabiele-fase">Naar Samenvatting &rsaquo;</a>
+<h5>Frequentie</h5>
+<ul>
+<li>Controleer pati&euml;nten die de maximaal verdragen dosering van de medicatie hebben bereikt na 3 en na 6 maanden, en daarna jaarlijks zo lang het hartfalen stabiel is.</li>
+<li>Controleer op indicatie vaker, bijvoorbeeld bij variatie in klachten, bij ernstige nierfunctiestoornis (eGFR &lt; 30 ml/min/1,73 m<sup>2</sup>), bij kwetsbare ouderen en bij pati&euml;nten met in het verleden nierfunctie- of elektrolytenafwijkingen met deze medicatie.</li>
+</ul>
+<h5>Aandachtspunten bij controles</h5>
+<ul>
+<li>Vraag naar klachten, onder andere inspanningsvermogen.</li>
+<li>Informeer naar therapietrouw en mogelijke bijwerkingen van de medicatie.</li>
+<li>Meet bloeddruk, polsfrequentie en gewicht.</li>
+<li>Bepaal eGFR plus creatinine, natrium en kalium.</li>
+<li>Breid het laboratoriumonderzoek zo nodig uit bij pati&euml;nten die aanmerking komen voor cardiovasculair risicomanagement (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/cardiovasculair-risicomanagement">NHG-Standaard Cardiovasculair risicomanagement</a>).</li>
+<li>Besteed steeds opnieuw aandacht aan de voorlichting (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-voorlichting">Voorlichting</a>).</li>
+<li>Wees alert op (langzame) verergering van het hartfalen. Pas zo nodig de medicatie aan volgens het&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>&nbsp;of overleg met de cardioloog.</li>
+<li>Overweeg telemonitoring alleen indien de pati&euml;nt dit wenst.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-beleid-bij-exacerbaties" class="section-heading">Beleid bij exacerbaties</h4>
+<ul>
+<li>Bij acuut hartfalen (ontstaan of verergerd in de loop van enkele uren, ABCDE instabiel): zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-acuut-hartfalen">Acuut hartfalen</a>.&nbsp;</li>
+<li>Bij exacerbatie hartfalen (ontstaan of verergerd in de loop van enkele dagen, ABCDE stabiel): zie hieronder.</li>
+<li>Besteed aandacht aan uitlokkende factoren zoals:
+<ul>
+<li>infecties</li>
+<li>NSAID-gebruik</li>
+<li>extra zout- of vochtinname</li>
+<li>onjuist toepassen van de therapie of therapieontrouw</li>
+</ul>
+</li>
+<li>Verdubbel de dosering van het diureticum gedurende 3 dagen.</li>
+<li>Overweeg tijdelijke halvering van de b&egrave;tablokker:
+<ul>
+<li>indien verdubbeling van het diureticum onvoldoende effect heeft</li>
+<li>bij hartfrequentie &lt; 50/min in combinatie met toename van de symptomen</li>
+</ul>
+</li>
+<li>Ga na of de pati&euml;nt correct is ingesteld op de hartfalenmedicatie (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>) en pas deze zo nodig aan (in overleg met de cardioloog).</li>
+<li>Laat de pati&euml;nt zich dagelijks wegen en houd nauw contact tot de pati&euml;nt weer stabiel is.</li>
+</ul>
+
+<h4 id="volledige-tekst-preventie-van-dehydratie-bij-intercurrente-infecties" class="section-heading">Preventie van dehydratie bij intercurrente infecties</h4>
+<ul>
+<li>Overweeg laboratoriumdiagnostiek (eGFR plus creatinine, kalium, natrium) afhankelijk van de ernst van het klinische beeld en de tijd tot uitslag</li>
+<li>Verwijs de pati&euml;nt bij ernstige klachten (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-consultatie-en-verwijzing">Consultatie en verwijzing</a>).</li>
+<li>Het beleid is afhankelijk van het klinische beeld en eventuele laboratoriumuitslagen.
+<ul>
+<li>Overweeg tijdelijk de RAS-remmer en/of aldosteronantagonist te halveren, en het diureticum te halveren (bij ook chronische nierschade) of te staken.</li>
+<li>Bij gebruik NSAID&rsquo;s: staak deze in ieder geval tijdelijk en zo mogelijk permanent.</li>
+<li>Ook voor andere medicatie geldt dat aanpassing aangewezen kan zijn, bijvoorbeeld het staken van metformine gedurende enkele dagen vanwege het risico op lactaatacidose (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/acute-diarree" target="_blank">NHG-Standaard Acute diarree</a>).</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 id="volledige-tekst-consultatie-en-verwijzing" class="section-heading">Consultatie en verwijzing</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-consultatie-en-verwijzing">Naar Samenvatting &rsaquo;</a>
+<h4 id="volledige-tekst-cardioloog" class="section-heading">Cardioloog</h4>
+<p>Overleg in de volgende situaties laagdrempelig met de cardioloog, met name bij kwetsbare pati&euml;nten of pati&euml;nten die zijn terugverwezen naar de huisarts.</p>
+
+<h5 id="volledige-tekst-redenen-voor-consultatie-of-terugverwijzing" class="section-heading">Redenen voor consultatie of (terug)verwijzing</h5>
+<ul>
+<li>Verwijs naar de cardioloog bij vermoeden van hartfalen op basis van afwijkend ecg en/of verhoogd (NT-pro)BNP:
+<ul>
+<li>start bij een sterk vermoeden of lange wachttijd alvast leefregels en medicatie (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>)&nbsp;</li>
+<li>overweeg verwijzing achterwege te laten bij kwetsbare pati&euml;nten voor wie diagnostiek en behandeling in de tweede lijn niet wenselijk zijn</li>
+</ul>
+</li>
+<li>Verwijs naar de cardioloog bij geleidelijke progressie van hartfalen ondanks ophoging van de diuretica; met name voor:
+<ul>
+<li>beoordeling van de ejectiefractie in verband met eventuele toevoeging van een aldosteronantagonist (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-stappenplan-hartfalenmedicatie">Stappenplan hartfalenmedicatie</a>)</li>
+<li>eventuele behandeling met een ARNI of ivabradine (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-arni-en-ivabradine">ARNI en ivabradine</a>)</li>
+</ul>
+</li>
+<li>Exacerbatie hartfalen: bij ernstige of aanhoudende klachten ondanks behandeling.</li>
+<li>Dehydratie: bij ernstige of aanhoudende klachten ondanks behandeling.</li>
+</ul>
+
+<h5 id="volledige-tekst-redenen-voor-overleg" class="section-heading">Redenen voor overleg</h5>
+<ul>
+<li>Achteruitgang van de nierfunctie of elektrolytstoornissen (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-beleid-bij-laboratoriumafwijkingen">Beleid bij laboratoriumafwijkingen</a>)</li>
+<li>Persisterende hypertensie ondanks adequate instelling op hartfalenmedicatie</li>
+<li>Onvoldoende controle van angina pectoris met hartfalenmedicatie</li>
+<li>Pati&euml;nt is mogelijk gebaat bij multidisciplinaire hartrevalidatie (leren omgaan met hartfalen en verbetering van de lichamelijke conditie, zie&nbsp;<a class="ext" href="https://www.nvvc.nl/Kwaliteit/richtlijnen" target="_blank" rel="noopener" data-extlink="">Multidisciplinaire richtlijn Hartrevalidatie</a>)</li>
+</ul>
+
+<h3 id="volledige-tekst-organisatie-van-de-zorg" class="section-heading">Organisatie van de zorg</h3>
+<h5>Algemeen</h5>
+<ul>
+<li>Leg in het dossier vast wie de hoofdbehandelaar is en daarmee het aanspreekpunt voor het co&ouml;rdineren van de zorg.</li>
+<li>Zorg ervoor dat het voor de pati&euml;nt en de zorgverleners op ieder moment duidelijk is wie hoofdbehandelaar en aanspreekpunt is, en ga na of de pati&euml;nt beschikt over de contactgegevens.</li>
+<li>Betrek zo nodig andere disciplines bij het beleid, bijvoorbeeld fysio- of oefentherapeut, di&euml;tist, maatschappelijk werker of psycholoog met expertise op het gebied van hartfalen.</li>
+<li>Inventariseer of de mogelijkheid bestaat een kaderhuisarts hart- en vaatziekten te consulteren.</li>
+<li>Start tijdig met advance care planning (ACP):
+<ul>
+<li>bespreek met enige regelmaat de doelen en voorkeuren van de pati&euml;nt met betrekking tot toekomstige zorg, en documenteer deze</li>
+<li>communiceer de de doelen en voorkeuren van de pati&euml;nt met de tweede lijn indien deze daar ook onder behandeling is</li>
+</ul>
+</li>
+<li>Bespreek met de pati&euml;nt de mogelijkheid om het dossier te delen met de huisartsenpost.</li>
+<li>Zorg ervoor dat de gemaakte afspraken bekend zijn bij de huisartsenpost en andere zorgverleners in geval van verwachte ontregeling, opname in een ziekenhuis of verpleeghuis of in de terminale fase.&nbsp;</li>
+</ul>
+<h5>Regionale afspraken</h5>
+<p>Maak met de betrokken cardiologen in de regio afspraken over:</p>
+<ul>
+<li>het diagnostische traject</li>
+<li>multidisciplinaire samenwerking en de rol van de hartfalenverpleegkundige</li>
+<li>welke huisartsen de behandeling van pati&euml;nten met hartfalen eventueel willen overnemen van de tweede lijn</li>
+<li>wie de controles uitvoert</li>
+<li>de wijze van consultatie, verwijzing en terugverwijzing</li>
+<li>communicatie tussen de cardioloog en huisarts over wijzigingen van het toestandsbeeld en/of de medicatie (zie&nbsp;<a class="ext" href="https://www.nhg.org/themas/publicaties/richtlijn-informatie-uitwisseling-tussen-huisarts-en-specialist-hasp" target="_blank" rel="noopener" data-extlink="">Richtlijn Informatie-uitwisseling tussen huisarts en specialist</a>)</li>
+<li>wie het aanspreekpunt is in geval van verslechtering</li>
+<li>hoe pati&euml;nten worden opgevangen bij exacerbaties in ANW-uren.</li>
+</ul>
+<h5>Overdracht hoofdbehandelaarschap</h5>
+<ul>
+<li>Bij het instellen op medicatie na een verwijzing is de cardioloog hoofdbehandelaar.</li>
+<li>De cardioloog kan de pati&euml;nt (eventueel na verloop van tijd) terugverwijzen als deze:
+<ul>
+<li>optimaal (medicamenteus of niet-medicamenteus) behandeld is en stabiel is</li>
+<li>zich in de terminale levensfase bevindt</li>
+</ul>
+</li>
+<li>Na de terugverwijzing is de huisarts hoofdbehandelaar.</li>
+<li>Indien de cardioloog alleen diagnostiek heeft uitgevoerd, moet deze bij de overdracht aan de huisarts de volgende gegevens verstrekken:
+<ul>
+<li>wie de hoofdbehandelaar is</li>
+<li>welke diagnose gesteld is</li>
+<li>behandeladvies en vervolgbeleid</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 id="volledige-tekst-palliatieve-zorg-bij-hartfalen" class="section-heading">Palliatieve zorg bij hartfalen</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-palliatieve-zorg-bij-hartfalen">Naar Samenvatting &rsaquo;</a>
+<h4 id="volledige-tekst-levensverwachting" class="section-heading">Levensverwachting</h4>
+<ul>
+<li>De levensverwachting is moeilijk in te schatten, gezien het vaak grillige beloop van hartfalen.</li>
+<li>Aanwijzingen voor een beperkte levensverwachting zijn:
+<ul>
+<li>frequente heropnames voor exacerbaties</li>
+<li>persisterende symptomen ondanks optimale behandeling</li>
+<li>cachexie</li>
+<li>afhankelijkheid van anderen bij ADL-activiteiten</li>
+<li>ernstige comorbiditeit</li>
+<li>negatief antwoord op de vraag: &lsquo;Zou het mij verbazen als deze pati&euml;nt &lt; 12 maanden overlijdt?&rsquo;</li>
+</ul>
+</li>
+<li>De meeste pati&euml;nten met hartfalen overlijden uiteindelijk aan een andere aandoening of aan plotse hartdood.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-advance-care-planning" class="section-heading">Advance care planning</h4>
+<ul>
+<li>Start tijdig gesprekken over ACP bij pati&euml;nten in NYHA-klasse III of IV en beperkte levensverwachting.</li>
+<li>Bespreek huidige en te verwachten symptomen, en de eventuele angst om te stikken.</li>
+<li>Besteed aandacht aan wat voor de pati&euml;nt belangrijk is in het leven.</li>
+<li>Formuleer samen met de pati&euml;nt en eventueel diens naasten zinvolle en haalbare doelen voor huidige en toekomstige zorg en behandeling.</li>
+<li>Bespreek de voor- en nadelen van de behandelingsopties.</li>
+<li>Bespreek de voorkeuren voor specifieke behandelingen rond het levenseinde.</li>
+<li>Documenteer de gemaakte afspraken in een IZP en zorg dat andere hulpverleners op de hoogte zijn van de gemaakte afspraken (zie&nbsp;<a href="https://richtlijnen.nhg.org/standaarden/hartfalen#volledige-tekst-individueel-zorgplan">Individueel zorgplan</a>).</li>
+<li>Herhaal de gesprekken met enige regelmaat om te controleren of de gemaakte afspraken actueel zijn of bijstelling behoeven.</li>
+</ul>
+
+<h4 id="volledige-tekst-medicatie" class="section-heading">Medicatie</h4>
+<ul>
+<li>Leg uit dat in de laatste levensfase (arbitrair &lt; 3 maanden voor het overlijden) medicamenteuze behandeling hoofdzakelijk of uitsluitend gericht is op verlichting van klachten.</li>
+<li>Als het levenseinde duidelijk in zicht is:&nbsp;
+<ul>
+<li>stop de controles van gewicht, bloeddruk, nierfunctie en elektrolyten of beperk ze tot een minimum</li>
+<li>overweeg morfine en eventueel sedatie ter verlichting van de klachten</li>
+</ul>
+</li>
+<li>Als het levenseinde niet duidelijk in zicht of gewenst is:
+<ul>
+<li>titreer de medicatie op geleide van hartfalensymptomen, bloeddruk, nierfunctie en elektrolyten, met als doel symptoomverlichting</li>
+<li>maak bij medicatie en (laboratorium)controles steeds de afweging tussen doorgaan en beperken of staken</li>
+</ul>
+</li>
+</ul>
+
+<h5 id="volledige-tekst-diuretica" class="section-heading">Diuretica</h5>
+<ul>
+<li>Pas de dosis aan op geleide van de klinische toestand; streef naar de laagst mogelijke effectieve dosis.</li>
+<li>Overweeg flexibel diureticumbeleid; met name ouderen drinken minder door verminderd dorstgevoel en zullen een lage dosering diuretica nodig hebben.</li>
+<li>Continueer diuretica bij aanwijzingen voor overvulling, totdat:
+<ul>
+<li>orale inname niet meer mogelijk is</li>
+<li>de pati&euml;nt geen medicatie meer wenst&nbsp;</li>
+<li>systolische bloeddruk &lt; 90 mmHg persisteert ondanks halveren of staken van de overige antihypertensiva.</li>
+</ul>
+</li>
+</ul>
+
+<h5 id="volledige-tekst-overige-hypertensiva" class="section-heading">Overige hypertensiva</h5>
+<ul>
+<li>Staak of verminder b&egrave;tablokkers, RAS-remmers en/of aldosteronantagonisten indien:
+<ul>
+<li>de pati&euml;nt de medicatie niet meer kan of wenst in te nemen</li>
+<li>bijwerkingen de kwaliteit van leven negatief be&iuml;nvloeden</li>
+</ul>
+</li>
+<li>Staak in principe eerst de b&egrave;tablokker (bij voorkeur afbouwen gezien de kans op reflextachycardie) en daarna de RAS-remmer en/of aldosteronantagonist.</li>
+<li>Indien de pati&euml;nt vanwege klachten zoals angina pectoris of ritmestoornissen meer gebaat is bij een b&egrave;tablokker, staak dan eerst de RAS-remmer en/of aldosteronantagonist.</li>
+<li>RAS-remmers en/of aldosteronantagonisten:
+<ul>
+<li>halveer bij symptomatische (orthostastische) hypotensie, systolische bloeddruk &lt; 90 mmHg en/of eGFR &lt; 30 ml/min/1,73m<sup>2</sup></li>
+<li>staak bij eGFR &lt; 20 ml/min/1,73m<sup>2</sup></li>
+</ul>
+</li>
+<li>B&egrave;tablokkers:
+<ul>
+<li>halveer bij symptomatische (orthostatische) hypotensie, systolische bloeddruk &lt; 90 mmHg en/of bradycardie &lt; 50/min</li>
+<li>overweeg verlaging of staken bij extreme moeheid of andere bijwerkingen</li>
+</ul>
+</li>
+</ul>
+
+<h5 id="volledige-tekst-morfine-bij-persisterende-dyspneu" class="section-heading">Morfine bij persisterende dyspneu</h5>
+<ul>
+<li>Start morfine met vertraagde afgifte, 10 mg 2 dd oraal, beoordeel het effect na 24 uur en verhoog bij onvoldoende effect in stappen van 25-50%.</li>
+<li>Of geef snelwerkende morfine, 2,5 mg zo nodig of om de 4 uur, beoordeel het effect na 4 uur en verhoog bij onvoldoende effect in stappen van 25-50%.</li>
+<li>Geef bij dyspneu-aanvallen die naar verwachting &gt; 30 minuten aanhouden daarnaast snelwerkende morfine, 1/6 van de dagdosis (afgerond naar het dichtstbijzijnde veelvoud van 5 mg).</li>
+<li>Kies bij eGFR &lt; 50 ml/min/1,73m<sup>2</sup>&nbsp;voor intermitterende toediening van morfine (zo nodig), of eventueel voor fentanyl transdermaal of hydromorfon als onderhoudsbehandeling.</li>
+</ul>
+
+
+
+<h4 id="volledige-tekst-icd-en-pacemaker" class="section-heading">ICD en pacemaker</h4>
+<ul>
+<li>Deactiveer een ICD in de palliatieve fase of bij euthanasie om te voorkomen dat deze impulsen afgeeft tijdens het overlijden.</li>
+<li>Een functionerende pacemaker zal het overlijdensproces niet verstoren en is belangrijk voor het comfort van de pati&euml;nt.</li>
+</ul>
+
+
+
+
+<h2 id="volledige-tekst-acuut-hartfalen" class="section-heading collapsible-toggler shdi-init open" tabindex="0" data-once="shdi tpe">Acuut hartfalen</h2>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-acuut-hartfalen">Naar Samenvatting &rsaquo;</a>
+
+<ul>
+<li>Kenmerk van acuut hartfalen is een snel begin of snelle toename van klachten.</li>
+<li>Behandel ernstig acuut hartfalen (asthma cardiale) als ABCDE instabiel (zie&nbsp;<a href="https://richtlijnen.nhg.org/behandelrichtlijnen/geneesmiddelen-en-zuurstof-spoedeisende-situaties" target="_blank">NHG-Behandelrichtlijn Geneesmiddelen en zuurstof in spoedeisende situaties</a>).</li>
+</ul>
+
+<h3 id="volledige-tekst-klinische-tekenen" class="section-heading">Klinische tekenen</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-klinische-tekenen">Naar Samenvatting &rsaquo;</a>
+<ul>
+<li>(Half)zittende houding, angstige blik, reutelende/versnelde ademhaling, bleek/grauwe kleur, transpireren, klamme koude huid</li>
+<li>Verhoogde ademfrequentie, vergrote ademarbeid, verlaagde saturatie</li>
+<li>Pols meestal snel en zwak</li>
+<li>Bloeddruk soms verlaagd</li>
+<li>Auscultatie hart: hartgeruis, aritmie of extra toon</li>
+<li>Auscultatie longen: tweezijdig crepiteren, veelal ook rhonchi, soms piepen (bij acute exacerbatie van chronisch hartfalen mogelijk ook demping en nauwelijks of geen ademgeruis basaal, passend bij pleuravocht)</li>
+<li>Oedeem, gestuwde halsvenen (verhoogde centraalveneuze druk).</li>
+</ul>
+
+<h3 id="volledige-tekst-beleid" class="section-heading">Beleid</h3>
+<a class="summary-main-text-crosslink btn btn-outline " href="https://richtlijnen.nhg.org/standaarden/hartfalen#samenvatting-beleid">Naar Samenvatting &rsaquo;</a>
+<h4>Bij telefonisch contact</h4>
+<ul>
+<li>Adviseer de pati&euml;nt rechtop te zitten met afhangende benen.</li>
+<li>Adviseer alvast een dosis nitroglycerine 0,4 mg of isosorbidedinitraat 5 mg sublinguaal in te nemen (indien beschikbaar), ongeacht of er pijn op de borst is.</li>
+<li>Adviseer geen nitroglycerine of isosorbidedinitraat als de pati&euml;nt bekend is met een lage bloeddruk.</li>
+<li>Laat een ambulance met A1-indicatie bellen en maak een visite.</li>
+</ul>
+<h4>In aanwezigheid van de pati&euml;nt</h4>
+<ul>
+<li>Bel een ambulance met A1-indicatie.</li>
+<li>Geef zuurstof indien beschikbaar, 10-15 l/min via een non-rebreathing masker.</li>
+<li>Plaats de pati&euml;nt in zittende houding.</li>
+<li>Bij systolische bloeddruk &gt; 90 mmHg: geef elke 5 minuten nitroglycerine 0,4 mg sublinguaal, 1-2 sprays tot de klachten voldoende verbeteren of de systolische bloeddruk daalt &lt; 90 mmHg.&nbsp;</li>
+<li>Contra-indicatie voor nitroglycerine: recent gebruik van een fosfodi&euml;sterase-5-remmer (avanafil, sildenafil, tadalafil, vardenafil).</li>
+<li>Breng een infuusnaald in en spuit door met NaCl 0,9% 2 ml .</li>
+<li>Geef bij dyspneu met aanwijzingen voor vochtretentie furosemide 40 mg intraveneus in 2-3 min of bumetanide 1 mg intraveneus (maximaal 4 mg). Doseer hoger bij eGFR &lt; 30 ml/min/1,73m<sup>2</sup>.</li>
+<li>Wees terughoudend met morfine:
+<ul>
+<li>uitsluitend bij persisterend hevige onrust, dyspneu, angst of pijn op de borst&nbsp;</li>
+<li>geen morfine bij pati&euml;nten met ernstig COPD</li>
+<li>overweeg morfine 2,5-5 mg intraveneus langzaam in 4-5 min; herhaal zo nodig na 10-20 min</li>
+</ul>
+</li>
+</ul>
