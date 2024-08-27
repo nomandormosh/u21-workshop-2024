@@ -8,7 +8,7 @@
    * Cancel the authorization procedure
    * Fill in the URL <https://github.com/nomandormosh/u21-workshop-2024>
      
-  ![Picture](assets/001.png){ style="display: block; margin: 0 auto" }
+  ![Picture](assets/001.png)
 
 4. Select the desired notebook.
    * U21\_workshop\_EN -> for heart failure ESC guidelines (English)
@@ -16,7 +16,7 @@
    * U21\_workshop\_ALICE -> for Alice’s Alice's Adventures in Wonderland
 5. When you run your first code you will get the following warning message which you can safely ignore
 
-   ![Picture](assets/002.png){ style="display: block; margin: 0 auto" }
+   ![Picture](assets/002.png)
 
 7. Good luck!
 
